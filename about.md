@@ -104,9 +104,9 @@ Born in Ipoh, Perak, Malaysia in 1984. Native place: Chaoyang, Chaozhou, Guangdo
 
 ## 联系方式 Contact
 
-📧 **Email:** [chiajeeluenincluded@example.com](mailto:chiajeeluenincluded@example.com)  
+📧 **Email:** [chiajeeluen@um.edu.my](mailto:chiajeeluen@um.edu.my)  
 🐙 **GitHub:** [@chiajeeluen](https://github.com/chiajeeluen)  
-🏫 **机构主页 | University Profile:** [马来亚大学中文系](https://um.edu.my)
+🏫 **马来亚大学个人主页 | University Profile:** [马来亚大学中文系谢依伦](https://umexpert.um.edu.my/chiajeeluen)
 
 ---
 
