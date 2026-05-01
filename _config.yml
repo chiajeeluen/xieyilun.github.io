@@ -18,7 +18,7 @@ avatar: https://avatars.githubusercontent.com/u/280639784?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: chiajeeluenincluded@example.com
+  email: chiajeeluenincluded@gmail.com
   facebook:
   flickr:
   github: chiajeeluen
@@ -47,7 +47,7 @@ url: https://chiajeeluen.github.io/xieyilun.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/xieyilun.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
